@@ -35,17 +35,8 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="Dinhgiaandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgiaandev&hide=c%2523,powershell,Mathematica,Ruby,Objective-C,Objective-C++,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Dinhgiaandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=dinhgiaandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true%22" />
-  </a>
-</div>
+<br>
 
 <br>
 <h2 align="center">👽 Where to find me? 👽</h2>
@@ -68,8 +59,10 @@
 </div>
 
 <br>
+<br>
+
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="svg/dinhgiaandev-quotes.svg" width="846" height="150" alt="dinhgiaandev-official" />
+<a href="#" target="_blank" >
+  <img src="svg/dinhgiaandev-quotes.svg" width="1200" height="150" alt="dinhgiaandev-official" />
 </a>
