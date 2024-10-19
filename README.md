@@ -9,8 +9,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.JS logo" title="NEXT.JS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -48,9 +46,3 @@
 
 <br>
 <br>
-
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank" >
-  <img src="svg/dinhgiaandev-quotes.svg" width="1200" height="150" alt="dinhgiaandev-official" />
-</a>
