@@ -3,12 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm a third-year student at HUFLIT University, majoring in Information Technology. Currently, I'm working as a web developer with a goal to become a full-stack developer</div>  
+### <div align="center">I'm a third-year student at HUFLIT University, majoring in Software Engineering. Currently, I'm working as a web developer with a goal to become a full-stack developer</div>  
   
-
-- 🔭 I’m currently studying at [HUFLIT](https://huflit.edu.vn/)  
-  
-
 - 🌱 I’m currently learning about Next.js and Remix    
   
 
