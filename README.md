@@ -67,3 +67,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dinhgiaandev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
+
+## Most Used Languages
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgiaandev&layout=compact&theme=dark" align="center" /></div>
+<br />
