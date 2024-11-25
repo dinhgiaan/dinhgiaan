@@ -37,10 +37,6 @@ I am currently a third-year student at Huflit University, working towards becomi
 
   <tr border="0">
     <td width="90" align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" width="60" height="60" alt="NestJS" />
-      <br>NestJS
-    </td>
-    <td width="90" align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="60" height="60" alt="Express.js" />
       <br>Express.js
     </td>
@@ -49,12 +45,16 @@ I am currently a third-year student at Huflit University, working towards becomi
       <br>MongoDB
     </td>
     <td width="90" align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" width="60" height="60" alt="C#" />
-      <br>C#
-    </td>
-    <td width="90" align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="60" height="60" alt="Docker" />
       <br>Docker
+    </td>
+        <td width="90" align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="60" height="60" alt="Git" />
+      <br>Git
+    </td>
+    <td width="90" align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" width="60" height="60" alt="GitLab" />
+      <br>GitLab
     </td>
   </tr>
 
@@ -68,16 +68,12 @@ I am currently a third-year student at Huflit University, working towards becomi
       <br>MUI
     </td>
     <td width="90" align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="60" height="60" alt="Git" />
-      <br>Git
+      <img src="https://camo.githubusercontent.com/f6bf5ee2b30310ad83a81212b9be69bdc2bb577f2ebe868ad89f8586b4721ffc/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" width="60" height="60" alt="Ant Design" />
+      <br>Ant Design
     </td>
     <td width="90" align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" width="60" height="60" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td width="90" align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" width="60" height="60" alt="XAMPP" />
-      <br>XAMPP
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60" alt="Postman" />
+      <br>Postman
     </td>
   </tr>
   </table>
