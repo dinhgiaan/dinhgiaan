@@ -109,7 +109,4 @@ I am currently a third-year student at Huflit University, working towards becomi
   <a href="https://www.facebook.com/dgiaan04" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/dga.isme" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
