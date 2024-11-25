@@ -1,6 +1,12 @@
 <div align="center">
-  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, my name is An</h1>
 </div>
+
+I am currently a third-year student at Huflit University, working towards becoming a full-stack web developer. Although I don't have much experience yet, I have been involved in personal and professional web projects to learn and develop my skills.
+* 🌍  I'm based in Viet Nam
+* ✉️  You can contact me at [dinhgiaanforwork@gmail.com](mailto:dinhgiaanforwork@gmail.com)
+
+<br/>
 
 ## 💼 Technologies & Tools
 
