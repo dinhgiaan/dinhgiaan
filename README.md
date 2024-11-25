@@ -84,7 +84,7 @@ I am currently a third-year student at Huflit University, working towards becomi
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgiaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgiaandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
   
   <br/>
   <br/>
