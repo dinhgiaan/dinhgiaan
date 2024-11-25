@@ -87,8 +87,6 @@
   <br/>
   <br/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <p><strong>TypeScript</strong> is my language of choice</p>
 </div>
 
 <br/>
