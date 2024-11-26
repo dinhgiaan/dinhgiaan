@@ -99,10 +99,10 @@ I am currently a third-year student at Huflit University, working towards becomi
   <a href="https://linkedin.com/in/dinhgiaan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://gitlab.com/dinhgiaandev" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/dgiaan04" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;&nbsp;
+   <a href="https://app.daily.dev/dinhgiaan" target="_blank">
+    <img src="https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily.dev" />
+</a>
 </div>
