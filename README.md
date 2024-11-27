@@ -75,6 +75,10 @@ I am currently a third-year student at Huflit University, working towards becomi
       <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60" alt="Postman" />
       <br>Postman
     </td>
+    <td width="90" align="center">
+      <img src="https://www.svgrepo.com/show/452202/figma.svg" width="60" height="60" alt="Figma" />
+      <br>Figma
+    </td>
   </tr>
   </table>
 </div>
