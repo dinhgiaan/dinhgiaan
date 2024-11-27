@@ -97,12 +97,13 @@ I am currently a third-year student at Huflit University, working towards becomi
 
 <div align="center">
   <a href="https://linkedin.com/in/dinhgiaan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="27" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/dgiaan04" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" alt="Facebook" height="27" />
   </a>&nbsp;&nbsp;
-   <a href="https://app.daily.dev/dinhgiaan" target="_blank">
-    <img src="https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily.dev" />
-</a>
+  <a href="https://app.daily.dev/dinhgiaan" target="_blank">
+    <img src="https://img.shields.io/badge/-daily.dev-CE3DF3?style=flat&logo=dailydotdev&logoColor=white" alt="Daily.dev" height="27" />
+  </a>
 </div>
+
