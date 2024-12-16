@@ -9,7 +9,7 @@ A passionate third-year student at Huflit University, I am committed to becoming
 
 ## Tech Stack & Key Skills
 
-| **Frontend** | **Backend** | **Database** | **Design** | **Tools & Frameworks** |
+| **Frontend** | **Backend** | **Database** | **Design** | **Tools** |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/><br>TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/><br>MongoDB | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="48" height="48"/><br>Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br>Git |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/><br>Express.js | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48"/><br>Material UI | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/><br>Postman |
