@@ -1,29 +1,20 @@
 ## About Me
 
-Passionate third-year student at Huflit University, dedicated to becoming a full-stack web developer. Actively expanding my skills through personal and professional web projects, with a keen eye for innovative and efficient solutions.
+A passionate third-year student at Huflit University, I am committed to becoming a full-stack web developer. My journey is driven by a relentless curiosity for innovative technologies and a desire to create efficient, user-centric digital solutions. Currently focusing on expanding my skill set through personal projects and practical experiences in web development.
 
-## Professional Overview
+## Professional Details
 
-- **Location**: Vietnam
-- **Education**: Huflit University
-- **Contact**: [dinhgiaanforwork@gmail.com](mailto:dinhgiaanforwork@gmail.com)
+- **Location**: Ho Chi Minh City, Vietnam
+- **Email**: [dinhgiaanforwork@gmail.com](mailto:dinhgiaanforwork@gmail.com)
 
-## Tech Ecosystem
+## Tech Stack & Key Skills
 
-| **Web Technologies** | **Backend & Infrastructure** | **Design & Styling** | **Development Tools** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/><br>TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br>Node.js | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="48" height="48"/><br>Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br>Git |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><br>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/><br>Express.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48"/><br>Material UI | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/><br>Postman |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/><br>MongoDB | <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48"/><br>Ant Design | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/><br>Next.js | | | |
+| **Frontend** | **Backend** | **Database** | **Design** | **Tools & Frameworks** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/><br>TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/><br>MongoDB | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="48" height="48"/><br>Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br>Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/><br>Express.js | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48"/><br>Material UI | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/><br>Postman |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/><br>Next.js | | | <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48"/><br>Ant Design | |
 
-
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgiaandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Top Languages"/>
-</div>
 
 ## Connect with Me
 
