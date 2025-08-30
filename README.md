@@ -43,7 +43,7 @@ As a **Software Development student** with an unquenchable passion for web devel
 
 <div align="center">
 
-### Frontend Mastery
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
@@ -54,7 +54,6 @@ As a **Software Development student** with an unquenchable passion for web devel
 ### Styling & UI/UX
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
@@ -89,7 +88,7 @@ As a **Software Development student** with an unquenchable passion for web devel
 ## Featured Projects
 
 ### **NovelNest - Online Book Reading Platform**
-*January 2025 - August 2025 | Solo Full-Stack Project*
+*January 2025 - August 2025 | Frontend & Backend*
 
 <div align="left">
   <img src="https://img.shields.io/badge/Status-Live%20Demo-success?style=flat-square&logo=vercel" alt="Live Demo">
@@ -121,7 +120,7 @@ As a **Software Development student** with an unquenchable passion for web devel
 ---
 
 ### **CodeLearn - Programming Learning Platform**
-*August 2024 - October 2024 | Team Lead & Full-Stack Developer*
+*August 2024 - October 2024 | Team Lead & Frontend & Backend*
 
 <div align="left">
   <img src="https://img.shields.io/badge/Team-3%20Members-orange?style=flat-square&logo=users" alt="Team Size">
@@ -138,7 +137,7 @@ As a **Software Development student** with an unquenchable passion for web devel
 **Tech Stack:**
 `Next.js` `TypeScript` `Tailwind CSS` `MUI` `Redux Toolkit` `Stripe` `Express.js`
 
-**Project Demo:** [Watch Demo Video](https://demo-link.com)
+**Project Demo:** [Watch Demo Video](https://youtu.be/F69pqAsAizY)
 
 <details>
 <summary><strong>Repository Links</strong></summary>
@@ -200,7 +199,6 @@ Scalable Web Applications
 ## Languages
 
 - **English:** Intermediate (Proficient in technical documentation)
-- **Vietnamese:** Native
 
 ---
 
