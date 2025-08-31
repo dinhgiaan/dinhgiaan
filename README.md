@@ -21,25 +21,22 @@
 </p>
 
 <p align="center">
-  <strong>Ho Chi Minh City, Vietnam</strong> | <strong>+84 856 562 424</strong>
+  <strong>Thu Duc City, Ho Chi Minh City, Vietnam</strong> | <strong>+84 856 562 424</strong>
 </p>
 
 ---
 
 ## About Me
 
-As a **Software Development student** with an unquenchable passion for web development, I'm not just seeking opportunities – I'm hunting for challenges that push boundaries! With hands-on experience in **full-stack development** and a proven track record of delivering production-ready applications, I bring both technical expertise and an unstoppable drive to innovate.
+**Frontend Developer** with hands-on experience in **React, Next.js, TypeScript,** and **Tailwind CSS**. Proficient in implementing real-world projects, collaborating in team environments, and following professional code management workflows. 
 
-### What Sets Me Apart
-- **Lightning-fast learner** who thrives on new technologies
-- **Results-driven** with 90%+ test coverage achievements
-- **Team player** with leadership experience
-- **Mobile-first** approach to responsive design
-- **Production-ready** code delivery
+I specialize in building **web applications** from concept to production, with a strong focus on creating user-friendly interfaces and optimizing performance across desktop and mobile platforms. My recent projects include an **Online Book Reading Platform** and a **Programming Learning Platform**, both featuring modern UI/UX, integrated payment systems, and responsive design.
+
+**Goal:** Enhance frontend skills, master Next.js advanced features and deployment workflows, and contribute to valuable products serving real users effectively.
 
 ---
 
-## Tech Arsenal
+## Technical Skills
 
 <div align="center">
 
@@ -54,6 +51,7 @@ As a **Software Development student** with an unquenchable passion for web devel
 ### Styling & UI/UX
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
@@ -73,79 +71,23 @@ As a **Software Development student** with an unquenchable passion for web devel
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
 </p>
 
+### Payment & Authentication
+<p>
+  <img src="https://img.shields.io/badge/PayOS-FF6B35?style=for-the-badge&logo=stripe&logoColor=white" alt="PayOS">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</p>
+
 ### Tools & Deployment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
 </div>
-
----
-
-## Featured Projects
-
-### **NovelNest - Online Book Reading Platform**
-*January 2025 - August 2025 | Frontend & Backend*
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Status-Live%20Demo-success?style=flat-square&logo=vercel" alt="Live Demo">
-  <img src="https://img.shields.io/badge/Coverage-90%25+-brightgreen?style=flat-square" alt="Test Coverage">
-  <img src="https://img.shields.io/badge/Device-Responsive-blue?style=flat-square" alt="Responsive">
-</div>
-
-**Key Achievements:**
-- Built complete **payment integration** system with PayOS
-- Achieved **90%+ test coverage** on frontend components  
-- Delivered **production-ready** application independently
-- Optimized for both **desktop & mobile** experiences
-
-**Tech Stack:**
-`Next.js` `TypeScript` `Tailwind CSS` `MUI` `Zustand` `SWR` `Express.js` `JWT` `PayOS`
-
-**Live Demo:** [novelnest.tech](https://novelnest.tech)  
-**Demo Access:** `userdemo@gmail.com` | `novelnest@@123`
-
-<details>
-<summary><strong>Repository Links</strong></summary>
-
-- [Client Repository](https://github.com/dinhgiaan/client-repo)
-- [Server Repository](https://github.com/dinhgiaan/server-repo) 
-- [Admin Panel](https://github.com/dinhgiaan/admin-repo)
-
-</details>
-
----
-
-### **CodeLearn - Programming Learning Platform**
-*August 2024 - October 2024 | Team Lead & Frontend & Backend*
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Team-3%20Members-orange?style=flat-square&logo=users" alt="Team Size">
-  <img src="https://img.shields.io/badge/Role-Lead%20Developer-red?style=flat-square&logo=crown" alt="Leadership">
-  <img src="https://img.shields.io/badge/Delivery-On%20Schedule-green?style=flat-square" alt="On Time">
-</div>
-
-**Key Achievements:**
-- **Led 3-member team** to successful project delivery
-- Implemented **video learning system** with user dashboard
-- Built secure **JWT authentication** and user management
-- Enhanced performance based on **user feedback** analysis
-
-**Tech Stack:**
-`Next.js` `TypeScript` `Tailwind CSS` `MUI` `Redux Toolkit` `Stripe` `Express.js`
-
-**Project Demo:** [Watch Demo Video](https://youtu.be/F69pqAsAizY)
-
-<details>
-<summary><strong>Repository Links</strong></summary>
-
-- [Client Repository](https://github.com/dinhgiaan/client-repo)
-- [Server Repository](https://github.com/dinhgiaan/server-repo)
-
-</details>
 
 ---
 
@@ -162,37 +104,14 @@ As a **Software Development student** with an unquenchable passion for web devel
 
 ---
 
-## Career Goals & Vision
-
-<div align="center">
-
-### **Immediate Goals**
-```
-Frontend Developer Intern Position
-Master Next.js Advanced Features  
-Contribute to Production Applications
-Collaborative Team Environment
-```
-
-### **Long-term Vision**
-```
-Full-Stack Architecture Expert
-Open Source Contributor
-Technical Team Leadership
-Scalable Web Applications
-```
-
-</div>
-
----
-
 ## Key Strengths & Highlights
 
-- **Independent Project Delivery:** Successfully completed full-stack projects from concept to production
-- **Rapid Technology Adoption:** Quick learner with ability to master new frameworks and tools
-- **Team Leadership Experience:** Led development teams and delivered projects on schedule
-- **Performance Optimization:** Focus on user experience, responsive design, and system performance
-- **Continuous Learning:** Committed to staying current with latest web development trends
+- **Web Application Development:** Implement projects independently or in teams from frontend to backend
+- **Rapid Technology Adoption:** Quickly adapt to new technologies, especially Next.js advanced features and deployment
+- **Production-Ready Development:** Delivered applications with >90% test coverage and optimized performance
+- **Team Leadership & Collaboration:** Led development teams and delivered projects on schedule
+- **Performance Optimization:** Focus on user experience, responsive design, and cross-platform compatibility
+- **Continuous Learning:** Committed to continuous learning and delivering tangible value to organizations
 
 ---
 
