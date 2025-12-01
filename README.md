@@ -2,7 +2,7 @@
 ## Frontend Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%7C+React+Expert;Next.js+%7C+TypeScript+Specialist;Always+Learning+New+Technologies&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Next.js+%7C+TypeScript+Specialist;Always+Learning+New+Technologies&center=true&width=380&height=45">
 </div>
 
 <p align="center">
