@@ -1,142 +1,75 @@
-# Dinh Gia An
-## Frontend Developer
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Next.js+%7C+TypeScript+Specialist;Always+Learning+New+Technologies&center=true&width=380&height=45">
-</div>
+<h1 align="center">Dinh Gia An</h1>
+<h3 align="center">Frontend Developer · Next.js / React / TypeScript</h3>
 
 <p align="center">
-  <a href="mailto:dinhgiaanforwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dinhgiaanforwork%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/dinhgiaan">
-    <img src="https://img.shields.io/badge/LinkedIn-dinhgiaan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://dinhgiaan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-dinhgiaan.vercel.app-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/dinhgiaan">
-    <img src="https://img.shields.io/badge/GitHub-dinhgiaan-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <a href="mailto:dinhgiaanforwork@gmail.com"><img src="https://img.shields.io/badge/Email-dinhgiaanforwork%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://dinhgiaan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dinhgiaan.vercel.app-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dinhgiaan"><img src="https://img.shields.io/badge/LinkedIn-dinhgiaan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/dinhgiaan"><img src="https://img.shields.io/badge/GitHub-dinhgiaan-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+## 👋 About Me
+
+**Frontend Developer** with **5+ months of professional experience** specializing in **Next.js, TypeScript, and scalable UI architecture**. Delivered 3 client projects on schedule, converted 20+ Figma mockups into pixel-perfect interfaces, and consistently maintained **90+ Lighthouse scores** in production environments.
+
+Experienced in Agile/Scrum workflows, cross-functional team collaboration, and modern state management patterns. Currently seeking a **Junior Frontend Developer** role to build impactful products within a strong engineering team.
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:** JavaScript (ES6+), TypeScript
+
+**Frontend:** React.js, Next.js, HTML5, CSS3, SCSS, Tailwind CSS, Responsive Design
+
+**State Management:** Redux Toolkit, Zustand, SWR, Axios
+
+**UI Libraries:** MUI, Ant Design, Shadcn
+
+**Backend:** Node.js, Express.js, MongoDB, RESTful API, JWT Authentication
+
+**Payments:** Stripe, PayOS
+
+**Tools:** Git, GitHub, GitLab, Postman, Vercel, Render, Figma, Agile/Scrum
+
+---
+
+## 💼 Professional Experience
+
+### Tikera — Frontend Developer Intern
+`Nov 2025 – Feb 2026 · Ho Chi Minh City`
+
+- Maintained and extended a reusable component library in a Next.js e-commerce codebase, reducing duplicated UI code across **8+ modules**.
+- Integrated RESTful APIs with proper error handling and loading states, improving frontend reliability for checkout and product listing flows.
+- Collaborated with backend developers to align on API contracts, reducing integration bugs across product, cart, and order modules.
+
+### Mona Media — Frontend Developer (Probation)
+`Sep 2025 – Oct 2025 · Ho Chi Minh City`
+
+- Converted **20+ Figma mockups** into responsive, pixel-perfect interfaces using Next.js, Redux Toolkit, and Tailwind CSS — reducing design-to-code time by **30%**.
+- Integrated **15+ RESTful APIs** with comprehensive error handling, improving data flow reliability by **40%**.
+- Spearheaded creation of **6 reusable UI components** per project, improving frontend code maintainability by **15%**.
+- Maintained **95% code quality** standards across 3 client projects delivered on schedule through code reviews and daily standups.
+
+---
+
+## 🎓 Education
+
+**HUFLIT University** — B.S. Software Development
+`Oct 2022 – Jun 2026 (expected)`
+
+---
+
+## 📌 Additional
+
+- **English:** Intermediate — proficient in technical documentation · Currently preparing for TOEIC
+- **Availability:** Immediate start · Open to hybrid or remote
+
+---
 
 <p align="center">
-  <strong>Thu Duc City, Ho Chi Minh City, Vietnam</strong> | <strong>+84 856 562 424</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=dinhgiaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgiaan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="160" />
 </p>
-
----
-
-## About Me
-
-**Frontend Developer** with hands-on experience in **React, Next.js, TypeScript,** and **Tailwind CSS**. Proficient in implementing real-world projects, collaborating in team environments, and following professional code management workflows. 
-
-I specialize in building **web applications** from concept to production, with a strong focus on creating user-friendly interfaces and optimizing performance across desktop and mobile platforms. My recent projects include an **Online Book Reading Platform** and a **Programming Learning Platform**, both featuring modern UI/UX, integrated payment systems, and responsive design.
-
-**Goal:** Enhance frontend skills, master Next.js advanced features and deployment workflows, and contribute to valuable products serving real users effectively.
-
----
-
-## Technical Skills
-
-<div align="center">
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### Styling & UI/UX
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-### State Management & APIs
-<p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
-  <img src="https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Zustand">
-  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="SWR">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
-</p>
-
-### Payment & Authentication
-<p>
-  <img src="https://img.shields.io/badge/PayOS-FF6B35?style=for-the-badge&logo=stripe&logoColor=white" alt="PayOS">
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-</p>
-
-### Tools & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
-
-</div>
-
----
-
-## Education & Background
-
-<div align="center">
-  <img src="https://img.shields.io/badge/University-HUFLIT-blue?style=for-the-badge&logo=education" alt="HUFLIT">
-  <img src="https://img.shields.io/badge/Major-Software%20Development-green?style=for-the-badge&logo=code" alt="Major">
-  <img src="https://img.shields.io/badge/Period-Oct%202022%20--%20Present-orange?style=for-the-badge&logo=calendar" alt="Duration">
-</div>
-
-**HUFLIT University - Software Development**  
-*October 2022 - Present*
-
----
-
-## Key Strengths & Highlights
-
-- **Web Application Development:** Implement projects independently or in teams from frontend to backend
-- **Rapid Technology Adoption:** Quickly adapt to new technologies, especially Next.js advanced features and deployment
-- **Production-Ready Development:** Delivered applications with >90% test coverage and optimized performance
-- **Team Leadership & Collaboration:** Led development teams and delivered projects on schedule
-- **Performance Optimization:** Focus on user experience, responsive design, and cross-platform compatibility
-- **Continuous Learning:** Committed to continuous learning and delivering tangible value to organizations
-
----
-
-## Languages
-
-- **English:** Intermediate (Proficient in technical documentation)
-
----
-
-## Contact & Connect
-
-<div align="center">
-
-**Ready to collaborate on your next project?**
-
-[**Get In Touch**](mailto:dinhgiaanforwork@gmail.com) | [**View Portfolio**](https://dinhgiaan.vercel.app) | [**Connect on LinkedIn**](https://www.linkedin.com/in/dinhgiaan)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhgiaan&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgiaan&layout=compact&theme=radical" alt="Top Languages">
-</div>
